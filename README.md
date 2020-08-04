@@ -8,5 +8,5 @@ Responsibility --so-far-- is by Simon Portegies Zwart
 But anybody who would like to contribute is welcome.
 
 # List of tutorials:
-scalar_units.ipynb            # Exploring some of the capabilities of units in AMUSE
-plotting_with_units.ipynb     # plot scalars and arrays with units
+ -scalar_units.ipynb            # Exploring some of the capabilities of units in AMUSE
+ -plotting_with_units.ipynb     # plot scalars and arrays with units
