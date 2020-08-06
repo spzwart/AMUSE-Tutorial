@@ -10,6 +10,6 @@ But anybody who would like to contribute is welcome.
 # List of tutorials:
  -scalar_units.ipynb            # Exploring some of the capabilities of units in AMUSE
  
- -particles.ipynb               # handling particles
- 
- -plotting_with_units.ipynb     # plot scalars and arrays with units
+- particles.ipynb               # handling particles
+- plotting_with_units.ipynb     # plot scalars and arrays with units
+- running_an_Nbody_code.ipynb   # perform simple N-boyd simulation
