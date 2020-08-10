@@ -14,3 +14,7 @@ But anybody who would like to contribute is welcome.
 - plotting_with_units.ipynb     # plot scalars and arrays with units
 - running_an_Nbody_code.ipynb   # perform simple N-boyd simulation
 - running_a_stellarevolution_code.ipynb  # perform simple stellar evolution calculation
+- running_Nbdoy_with_stellar.ipynb  # run a stellar evolution code
+                                    # as well as an N-body code and 
+									# assure that the result is self 
+									# consistent.
