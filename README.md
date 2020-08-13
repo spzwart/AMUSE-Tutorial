@@ -74,6 +74,7 @@ collisions between stars.
  * Initiate collision detection.
  * Find a specific particle in another particle set.
  * Merge stars.
+ * How to find an interacting subset of particles
 
 ###  Bridged_Nbody_with_Galaxy.ipynb   
 Simulate a single star (and a cluster) in orbit around the Galactic
