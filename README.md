@@ -62,6 +62,20 @@ perform simple stellar evolution calculation
 Run a stellar evolution code as well as an N-body code and assure that
 the result is self consistent.
 
+###  running_Nbody_with_collisions.ipynb
+Perform an N-body calculation that includes stellar evolution and
+collisions between stars.
+
+#### learning tasks
+ * Generate initial conditions.
+ * Initialize stellar and N-body codes.
+ * More advanced channels for copying specific attributes.
+ * Setup stopping conditions.
+ * Initiate collision detection.
+ * Find a specific particle in another particle set.
+ * Merge stars.
+
 ###  Bridged_Nbody_with_Galaxy.ipynb   
 Simulate a single star (and a cluster) in orbit around the Galactic
 center.
+
