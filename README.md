@@ -5,6 +5,8 @@ notebooks.  These tutorial will (in part) be used for the lecture
 series on Simulation and Modeling in astrophysics at Leiden
 Observatory of Leiden University, year 2020 September to December.
 
+Further course information can be found at the [wiki](https://github.com/spzwart/AMUSE-Tutorial/wiki)
+
 Responsibility --so-far-- is by Simon Portegies Zwart
 But anybody who would like to contribute is welcome.
 
