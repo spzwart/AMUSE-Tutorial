@@ -80,3 +80,16 @@ collisions between stars.
 Simulate a single star (and a cluster) in orbit around the Galactic
 center.
 
+###  running_hydrodynamics.ipynb
+Evolve a massive single star up to the moment it explodes in a
+supernova. After this we inject energy into the inner-region of the
+star and follow the hydrodynamics of the explosion by means of a
+smoothed-particle hydrodynamics code. 
+
+#### learning tasks
+ * Run another AMUSE module to generate initial conditions for yet another code.
+ * How to recove the crash of a code and pick-up the result.
+ * Store simulation data in the form if python pickel files, and recover from those.
+ * plot the result of a hydrodynamical simulation.
+ * make an animation of simulation results.
+ * Run an AMUSE module as a parallel job.
