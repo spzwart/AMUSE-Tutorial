@@ -45,8 +45,14 @@ Handling particles
  * synchronize_to()
  * get_subset_from()
 
-## modules_and_channels.ipynb
-Learn to communicate between your script and a running code.
+## Nemesis_and_the_Sun.ipynb
+Learn how to use modules and set up binary and multiple systems.
+
+#### Learning objectives
+ * Set-up a particle set.
+ * Initialize planetary system.
+ * Converting orbital elements to Cartesian coordinates.
+ * Generate binary from orbital elements.
 
 ## running_an_Nbody_code.ipynb   
 perform simple N-boyd simulation
