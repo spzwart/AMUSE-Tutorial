@@ -94,6 +94,17 @@ center.
 
 #### Learning objectives
 
+## high_order_bridge.ipynb
+You simulate a debris disk around a moon, in orbit around a planet, in
+orbit around a star. This requires a higher order bridge, in order to
+assure that the orbital integration is performed with sufficient
+precision and accuracy.
+
+#### Learning objectives
+ * Initialize a two-way bridge
+ * High-order bridge initalization
+ * How to construct a disk around a celestial body.
+
 ## nested_bridges.ipynb
 
 ## hierachical_bridges.ipynb
