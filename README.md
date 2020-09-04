@@ -68,21 +68,35 @@ perform simple N-boyd simulation
  * Making cumulative distributions
 
 ## running_stellarevolution.ipynb  
-perform simple stellar evolution calculation
+Perform simple stellar evolution calculation by setting up a stellar
+mass-function, declaring the stellar evolution code and run it to a
+certain moment in time.
+
+#### Learning objectives
+ * Generate stellar mass-function from internal AMUSE routine.
+ * Plot the results.
+ * Use channels from and to running modules.
 
 ##  running_Nbdoy_with_stellar.ipynb  
 Run a stellar evolution code as well as an N-body code and assure that
 the result is self consistent.
+
+#### Learning objectives
+ * Initiate multiple independent codes.
+ * exchange information from one code to another.
+ * Use Channels across modules.
+ * Plot results.
 
 ##  running_Nbody_with_collisions.ipynb
 Perform an N-body calculation that includes stellar evolution and
 collisions between stars.
 
 #### Learning objectives
+ * Channels
  * Generate initial conditions.
  * Initialize stellar and N-body codes.
  * More advanced channels for copying specific attributes.
- * Setup stopping conditions.
+ * Sstopping conditions.
  * Initiate collision detection.
  * Find a specific particle in another particle set.
  * Merge stars.
@@ -93,8 +107,16 @@ Simulate a single star (and a cluster) in orbit around the Galactic
 center.
 
 #### Learning objectives
+ * Single-directional hierarchical code coupling strategy (i.e. classice bridge).
+ * Bridge timesteps.
+ * Constructing classes in Python
+ * Incorporating an external potential to an N-body simulation
+ * Appreciate the role of get_gravity_at_point function in bridge.
+ * Appreciate the role of get_potential_at_point function in bridge.
 
 ## high_order_bridge.ipynb
+**Not yet documented**
+**Not yet working**
 You simulate a debris disk around a moon, in orbit around a planet, in
 orbit around a star. This requires a higher order bridge, in order to
 assure that the orbital integration is performed with sufficient
@@ -105,9 +127,15 @@ precision and accuracy.
  * High-order bridge initalization
  * How to construct a disk around a celestial body.
 
-## nested_bridges.ipynb
-
 ## hierachical_bridges.ipynb
+**Not yet documented**
+Construct a hierarchial bridge to integrate a highly hierarchical
+system of star and planets.
+
+#### Learning objectives
+ * Non-linear coupling strategies (bridge).
+ * Hierarchical coupling strategies (bridge).
+ * Multiple channels to single particle set.
 
 ##  running_hydrodynamics.ipynb
 Evolve a massive single star up to the moment it explodes in a
@@ -123,7 +151,13 @@ smoothed-particle hydrodynamics code.
  * make an animation of simulation results.
  * Run an AMUSE module as a parallel job.
 
+## bridge_gravity_with_hydro.ipynb
+
+
 ## running_radiative_transport.ipynb
+**Not yet constructed**
+
 
 ### License
 [MIT](http://www.opensource.org/licenses/mit-license.php)
+
