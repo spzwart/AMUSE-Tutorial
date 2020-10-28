@@ -114,6 +114,15 @@ center.
  * Appreciate the role of get_gravity_at_point function in bridge.
  * Appreciate the role of get_potential_at_point function in bridge.
 
+##  gravity_cascaded_bridges.ipynb
+Simulate several planetary system, each with their own N-body
+integrator, and the lot integrated in another N-body code.  Note that
+here the interactions of one planet to the planets around another star
+are ignored in this implementation.
+
+#### Learning objectives
+ * use a cascade of bridges
+
 ## high_order_bridge.ipynb
 **Not yet documented**
 **Not yet working**
