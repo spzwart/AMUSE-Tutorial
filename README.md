@@ -29,6 +29,9 @@ Exploring some of the capabilities of units in AMUSE
 ## particles.ipynb
 Handling particles
 
+## excell_to_particleset.ipynb
+Converting external data formats to a common AMUSE particle set
+
 #### Learning objectives
  * Initialize particle sets.
  * Assign values to particle-set attributes.
