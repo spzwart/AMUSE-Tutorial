@@ -165,6 +165,8 @@ smoothed-particle hydrodynamics code.
 
 ## bridge_gravity_with_hydro.ipynb
 
+## evolve_stars_asynchroneously.ipynb
+ * learn how to construct a population of stars that did not co-evolve
 
 ## running_radiative_transport.ipynb
 **Not yet constructed**
