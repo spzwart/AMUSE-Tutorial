@@ -28,11 +28,6 @@ Exploring some of the capabilities of units in AMUSE
  
 ## particles.ipynb
 Handling particles
-
-## excell_to_particleset.ipynb
-Converting external data formats to a common AMUSE particle set
-
-#### Learning objectives
  * Initialize particle sets.
  * Assign values to particle-set attributes.
  * Use particle-set member functions.
@@ -41,12 +36,6 @@ Converting external data formats to a common AMUSE particle set
  * Query particle sets and get help.
  * Select specific particles from a set.
 
-#### Not discussed in this tutorial, but probably desired are:
- * Initialize vector attributes in a particle set
- * check for the existence of an attribute
- * particle Supersets and Subsets
- * synchronize_to()
- * get_subset_from()
 
 ## Nemesis_and_the_Sun.ipynb
 Learn how to use modules and set up binary and multiple systems.
