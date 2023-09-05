@@ -12,10 +12,11 @@ Responsibility --so-far-- is by Simon Portegies Zwart
 But anybody who would like to contribute is welcome.
 
 The course is composed of 12 lectures with an equal number of
-assignmnets. In the middele, after 6 lectures (assignmnets) there will
-be a small test, and there is a final test at the end.
-
+assignments. 
 # List of tutorials:
+
+## amuse-course-tests.ipynb
+Check that all the codes are actually installed correctly by importing them all.
 
 ## scalar_units.ipynb
 Exploring some of the capabilities of units in AMUSE
