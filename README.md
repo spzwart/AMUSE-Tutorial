@@ -12,7 +12,7 @@ Responsibility --so-far-- is by Simon Portegies Zwart
 But anybody who would like to contribute is welcome.
 
 The course is composed of 12 lectures with an equal number of
-assignments. 
+assignments. Which can be found here: https://github.com/amusecode/Tutorial/
 # List of tutorials:
 
 ## amuse-course-tests.ipynb
