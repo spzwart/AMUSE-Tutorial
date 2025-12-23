@@ -5,6 +5,12 @@ notebooks.  These tutorial will (in part) be used for the lecture
 series on Simulation and Modeling in astrophysics at Leiden
 Observatory of Leiden University, year 2023 September to December.
 
+An early version of the book can be found in directory
+- Book
+
+The script to calculate the final verdict for this course in
+- Verdict
+
 Further course information can be found at the
 [wiki](https://github.com/spzwart/AMUSE-Tutorial/wiki)
 
