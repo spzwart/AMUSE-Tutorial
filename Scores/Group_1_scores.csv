@@ -1,23 +1,15 @@
 category,item,value
-participation,Presentation/chairing,9.0
-participation,Asking questions,7.0
-participation,Answering questions,9.0
+participation,Presentation/chairing,7.0
 participation,Join in discussion,7.0
-participation,Background,9.0
-participation,Content,7.0
-participation,Slides,8.0
-participation,Story line,7.0
-git usage,Data volume,6.0
-git usage,README,8.0
-git usage,Directory structure,6.0
+participation,Project presentation,7.5
+git usage,Git usage,6.0
+git usage,README,7.0
 git usage,Code quality,8.0
-git usage,Performance,6.0
 git usage,Bridge,8.0
-git usage,Stopping conditions,6.0
+git usage,Stopping conditions,0.0
 git usage,Number of codes used,8.0
-git usage,Multiphysics,7.0
-report,Structure,5.0
+git usage,Multiphysics,8.0
+report,Format,7.0
+report,Structure,7.0
 report,Writing style,7.0
-report,Length,5.0
 report,AI assitance,7.0
-report,Fun to read,6.0
