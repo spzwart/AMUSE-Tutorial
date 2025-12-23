@@ -11,6 +11,9 @@ An early version of the book can be found in directory
 The script to calculate the final verdict for this course in
 - Verdict
 
+An example student score matrix is filled in:
+- Score
+
 Further course information can be found at the
 [wiki](https://github.com/spzwart/AMUSE-Tutorial/wiki)
 
