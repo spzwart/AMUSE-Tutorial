@@ -22,6 +22,7 @@ if __name__ in ('__main__', '__plot__'):
         presentation = []
         gitusage = []
         report = []
+        bonus = 0
         for row in reader:
             rows.append({
                 "category": row["category"],
@@ -34,6 +35,8 @@ if __name__ in ('__main__', '__plot__'):
                 gitusage.append(float(row["value"]))
             elif row["category"]=="report":
                 report.append(float(row["value"]))
+            elif row["category"]=="Bonus":
+                bonus = float(row["value"])
             if o.verbose:
                 print(row)
     group = o.input_filename.split("/")[-1]
@@ -41,7 +44,9 @@ if __name__ in ('__main__', '__plot__'):
     print(f"Presentation: {np.mean(presentation)} +/- {np.std(presentation)}")
     print(f"Git usage: {np.mean(gitusage)} +/- {np.std(gitusage)}")
     print(f"Report: {np.mean(report)} +/- {np.std(report)}")
+    print(f"Bonus: {bonus}")
 
     verdict_score = (np.mean(presentation) + np.mean(gitusage) + np.mean(report))/3.0
     verdict_disp  = np.sqrt(np.std(presentation)**2 + np.std(gitusage)**2 + np.std(report)**2)/3.0
     print(f"Final score = {verdict_score:0.1f} +/- {verdict_disp:0.1f}")
+    print(f"Final score with bonus = {(bonus+verdict_score):0.1f} +/- {verdict_disp:0.1f}")
