@@ -1,23 +1,23 @@
 category,item,value
-participation,Presentation/chairing,1.0
-participation,Asking questions,1.0
-participation,Answering questions,1.0
-participation,Join in discussion,1.0
-participation,Background,1.0
-participation,Content,1.0
-participation,Slides,1.0
-participation,Story line,1.0
-git usage,Data volume,1.0
-git usage,README,1.0
-git usage,Directory structure,1.0
-git usage,Code quality,1.0
-git usage,Performance,1.0
-git usage,Bridge,1.0
-git usage,Stopping conditions,1.0
-git usage,Number of codes used,1.0
-git usage,Multiphysics,1.0
-report,Structure,1.0
-report,Writing style,1.0
-report,Length,1.0
-report,AI assitance,1.0
-report,Fun to read,1.0
+participation,Presentation/chairing,9.0
+participation,Asking questions,7.0
+participation,Answering questions,9.0
+participation,Join in discussion,7.0
+participation,Background,9.0
+participation,Content,7.0
+participation,Slides,8.0
+participation,Story line,7.0
+git usage,Data volume,6.0
+git usage,README,8.0
+git usage,Directory structure,6.0
+git usage,Code quality,8.0
+git usage,Performance,6.0
+git usage,Bridge,8.0
+git usage,Stopping conditions,6.0
+git usage,Number of codes used,8.0
+git usage,Multiphysics,7.0
+report,Structure,5.0
+report,Writing style,7.0
+report,Length,5.0
+report,AI assitance,7.0
+report,Fun to read,6.0
