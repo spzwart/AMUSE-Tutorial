@@ -3,7 +3,7 @@
 Here are a number of small AMUSE tutorials in the form of python
 notebooks.  These tutorial will (in part) be used for the lecture
 series on Simulation and Modeling in astrophysics at Leiden
-Observatory of Leiden University, year 2023 September to December.
+Observatory of Leiden University, year 2026 September to December.
 
 An early version of the book can be found in directory
 - Book
