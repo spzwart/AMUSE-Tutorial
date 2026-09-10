@@ -14,3 +14,5 @@
 | Report        | Structure             | [Springer Nature LaTeX template](https://www.overleaf.com/latex/templates/springer-nature-latex-template/myxmhdsbzkyd).                                   |
 | Report        | Writing style         | [Nature Portfolio writing guide](https://www.nature.com/nature-portfolio/for-authors/write).                                                              |
 | Report        | AI assistance         |                                                                                                                                                           |
+
+[See also here](https://github.com/spzwart/AMUSE-Tutorial/wiki/assessment.md)
