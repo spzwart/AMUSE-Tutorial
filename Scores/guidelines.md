@@ -1,18 +1,17 @@
+General guidelines of what is considered when grading. This is not extensive, and aspects such as creativity or ambition will also be taken into account.
+
 | Category      | Item                  | Value                                                                                                                                                     |
 | ------------- | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Participation | Presentation/chairing |                                                                                                                                                           |
 | Participation | Join in discussion    |                                                                                                                                                           |
 | Participation | Project presentation  | Movie.                                                                                                                                                    |
-| Git usage     | Git usage             | Proper use of Git functionalities. \\ Consistent contribution history.                                                                                       |
+| Git usage     | Git usage             | Proper use of Git functionalities. \n Consistent contribution history.                                                                                       |
 | Git usage     | README                | Easy to follow, mentioning directory structure and how to run the code.                                                                                   |
-| Git usage     | Code quality          | Directory management. \\ Readable code which follows conventions ([PEP 8](https://peps.python.org/pep-0008/)). \\ Runnable (we will test your codes at the end). |
-| Git usage     | Bridge                |                                                                                                                                                           |
-| Git usage     | Stopping conditions   |                                                                                                                                                           |
+| Git usage     | Code quality          | Directory management. \n Readable code which follows conventions ([PEP 8](https://peps.python.org/pep-0008/)). \n Runnable (we will test your codes at the end). |
 | Git usage     | Number of codes used  | Choice of code should be well motivated.                                                                                                                  |
-| Git usage     | Multiphysics          | Simulation considers 2+ physical regimes (Stellar Evolution / Gravity / Hydrodynamics / Radiative Transfer / Chemistry).                                  |
+| Git usage     | Multiphysics          | Simulation considers 2+ physical regimes (Stellar Evolution / Gravity / Hydrodynamics / Radiative Transfer / Chemistry). \n Stopping conditions. \n Bridge Method   |
 | Report        | Format                | [Nature formatting guide](https://www.nature.com/nature/for-authors/formatting-guide) (under “Format of Articles”).                                       |
 | Report        | Structure             | [Springer Nature LaTeX template](https://www.overleaf.com/latex/templates/springer-nature-latex-template/myxmhdsbzkyd).                                 |
-| Report        | Writing style         | [Nature Portfolio writing guide](https://www.nature.com/nature-portfolio/for-authors/write). \\ Your results are easily interpreted and plots are clear.  \\ You consider the limitations/assumptions/initial conditions of your investigation. \\ You tie results to past research and consider its implications in astronomy.                                                              |
-| Report        | AI assistance         |                                                                                                                                                           |
+| Report        | Writing style         | [Nature Portfolio writing guide](https://www.nature.com/nature-portfolio/for-authors/write). \n Your results are easily interpreted and plots are clear.  \n You consider the limitations/assumptions/initial conditions of your investigation. \n You tie results to past research and consider its implications in astronomy.                                                              |
 
 [See also here](https://github.com/spzwart/AMUSE-Tutorial/wiki/assessment.md)
