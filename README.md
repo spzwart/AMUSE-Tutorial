@@ -1,3 +1,14 @@
+Welcome to the course on Simulation and Modeling in Astrophysics. This course consists of live lectures and lab assignments
+
+All necessary information for the course can be found on this git repository. Familiarise yourself with the content. In understanding how to use AMUSE as a programming tools, tutorials are provided alongside the textbook which gives a deeper understanding of the codes, their techniques used, some free parameters influencing their integration and examples to show the capabilities. You are **NOT** required to complete them all, but they can help you when constructing your project.
+
+Communication on any updates regarding course material will be provided on the Brightspace, email, git or Slack. You can also contact the teaching assistants via Slack. All further information is available on the wiki.
+
+During this course, you will work on a research project using existing computational tools and state-of-the-art simulation codes. You will be using the AMUSE software. You will learn how to perform astronomical simulations and assess the results.
+
+Your final score will reflect your ability to use the simulation environment, how to conduct scientific computations and research in general.
+
+
 # AMUSE-Tutorial
 
 Here are a number of small AMUSE tutorials in the form of python
@@ -5,14 +16,11 @@ notebooks.  These tutorial will (in part) be used for the lecture
 series on Simulation and Modeling in astrophysics at Leiden
 Observatory of Leiden University, year 2026 September to December.
 
-An early version of the book can be found in directory
-- Book
+An early version of the book can be found in the directory `Book/'
 
-The script to calculate the final verdict for this course in
-- Verdict
+The script to calculate the final verdict for this course in the directory `Verdict/'
 
-An example student score matrix is filled in:
-- Score
+An example student score matrix is filled in the directory `Score/'
 
 Further course information can be found at the
 [wiki](https://github.com/spzwart/AMUSE-Tutorial/wiki)
